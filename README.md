@@ -1,3 +1,7 @@
+Name: Kshitij Chitransh
+Roll Number: 202510101110043
+Course: B.Tech CSE (32)
+
 # Multimodal Emotional Support Chatbot (RAG + FastAPI + Streamlit + MySQL + Gemini)
 
 A secure, empathetic multimodal conversational agent designed to provide personal emotional support, grounding exercises, and grounded knowledge retrieval using a RAG architecture.
